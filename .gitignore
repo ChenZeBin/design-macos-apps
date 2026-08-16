@@ -1,0 +1,17 @@
+.DS_Store
+
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+
+.eval-workspaces/
+evals/results/
+*-workspace/
+
+.build/
+build/
+dist/
+DerivedData/
+.swiftpm/
+*.xcuserstate
